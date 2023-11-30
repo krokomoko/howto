@@ -5,4 +5,4 @@
 Есть следующие группы:
 
 * Настройка рабочего окружения (программного и реального)
-  - [https://github.com/krokomoko/howto/blob/master/dev_environment/emacs_setup.md] (Настройка emacs)
+  - https://github.com/krokomoko/howto/blob/master/dev_environment/emacs_setup.md)[Настройка emacs]
