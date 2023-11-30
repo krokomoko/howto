@@ -25,7 +25,7 @@
 	
 	(add-to-list 'package-archives '("melpa-stable" . "https://stable.melpa.org/packages/"))
 
-([https://github.com/melpa/melpa](MELPA))
+([MELPA](https://github.com/melpa/melpa))
 
 ### Установка
 
